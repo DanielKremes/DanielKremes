@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DanielKremes
 - 👀 I'm interested in getting my first opportunity as a programmer
-- 🌱 I’m currently learning html css javascript
+- 🌱 I’m currently learning https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black css javascript
 - 📫 How to reach me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 - 📱 Whatsapp (42) 99971-6528
 - Projects made:
