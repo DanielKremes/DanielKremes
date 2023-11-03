@@ -6,6 +6,7 @@
 ## 📫 How to reach me:
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 ## 📱 Whatsapp (42) 99971-6528
+## ![WHATSAPP](https://img.shields.io/badge/Whatsapp-1877F2?style=for-the-badge&logo=Whatsapp&logoColor=white)
 ## Projects made:
 ## [Trilha CSS DIO(Dgitial Innovation One)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 <!---
