@@ -11,7 +11,6 @@
 
 ## Projects made
 ## 🔗 [Trilha CSS DIO(Dgitial Innovation One)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
-## 🔗 [Criando um Projeto com HTML/CSS para Listagem de Pokémon](https://danielkremes.github.io/pokedex/)
 <!---
 DanielKremes/DanielKremes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
