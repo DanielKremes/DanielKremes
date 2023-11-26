@@ -12,6 +12,31 @@
 ## Projects made
 ## 🔗 [Trilha CSS DIO Dgitial Innovation One](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 ## 🔗 [Angular blog](https://danielkremes.github.io/angular_blog_dio_course/)
+
+# Links uteis:
+💻 [DIO Code your global future now!](https://www.dio.me/)
+
+🔗 [Node.js](https://nodejs.org/en)
+
+🔗 [Vscode](https://code.visualstudio.com/)
+
+# Bootcamps completed:
+🏆 [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/9D9BFB6D/share)
+
+🏆 [Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/certificate/291C45B1/share)
+
+# Courses completed.
+✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
+
+# Link to personlaziation emoji in github and Badges
+👍 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+
+👍 [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+
+# Date update.
+📅 Sunday - 11/26/2023 ⏲️ PM 8.39 
+
+# Thank you all very much, good studies and hugs to everyone.
 <!---
 DanielKremes/DanielKremes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
