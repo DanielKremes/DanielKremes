@@ -20,6 +20,8 @@
 
 🔗 [Vscode](https://code.visualstudio.com/)
 
+🔗 [Angular](https://angular.io/)
+
 # Bootcamps completed:
 🏆 [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/9D9BFB6D/share)
 
