@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 
 ## Projects made
-## 🔗 [Trilha CSS DIO(Dgitial Innovation One)]  (https://danielkremes.github.io/trilha-css-desafio-01-Public/)
+## 🔗 [Trilha CSS DIO(Dgitial Innovation One](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 ## 🔗 [Angular blog](https://danielkremes.github.io/angular_blog_dio_course/)
 <!---
 DanielKremes/DanielKremes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
