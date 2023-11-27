@@ -11,6 +11,7 @@
 
 ## Projects made
 ## 🔗 [Trilha CSS DIO Dgitial Innovation One](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
+## [![CSS3](https://img.shields.io/badge/Trilha CSS DIO Dgitial Innovation One-239120?&style=for-the-badge&logo=Trilha CSS DIO Dgitial Innovation One3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 ## 🔗 [Angular blog](https://danielkremes.github.io/angular_blog_dio_course/)
 
 # Links uteis:
