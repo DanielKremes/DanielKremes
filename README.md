@@ -25,14 +25,6 @@
 
 # Bootcamps completed:
 
-[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Potencia_Tech-iFood-Programacao_do_Zero_DD0031?style=for-the-badge&logo=Angular_Blog&logoColor=white)](https://angular.io/)
-
-[![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular_Blog&logoColor=white)](https://angular.io/)
-
-
-[![](https://img.shields.io/badge/Potência_Tech_iFood-Programação_do_Zero-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
-
-[![Potência Tech iFood - Desenvolvimento de Jogos](https://img.shields.io/badge/Potência_Tech_iFood-Desenvolvimento_de_Jogos-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
