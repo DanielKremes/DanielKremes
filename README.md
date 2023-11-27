@@ -25,11 +25,9 @@
 
 # Bootcamps completed:
 
-[![Potência Tech iFood - Desenvolvimento de Jogos](https://img.shields.io/badge/Potência_Tech_iFood-Desenvolvimento_de_Jogos-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Potência_Tech_iFood-Programação_do_Zero-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
-🏆 [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/9D9BFB6D/share)
-
-🏆 [Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/certificate/291C45B1/share)
+[![Potência Tech iFood - Desenvolvimento de Jogos](https://img.shields.io/badge/Potência_Tech_iFood-Desenvolvimento_de_Jogos-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
