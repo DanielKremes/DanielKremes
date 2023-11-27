@@ -24,6 +24,9 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 # Bootcamps completed:
+
+[![Potência Tech iFood - Desenvolvimento de Jogos](https://img.shields.io/badge/Potência_Tech_iFood-Desenvolvimento_de_Jogos-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+
 🏆 [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/9D9BFB6D/share)
 
 🏆 [Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/certificate/291C45B1/share)
