@@ -20,7 +20,7 @@
 
 🔗 [Vscode](https://code.visualstudio.com/)
 
-🔗 [Angular](https://angular.io/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 # Bootcamps completed:
 🏆 [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/9D9BFB6D/share)
