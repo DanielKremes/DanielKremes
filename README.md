@@ -25,6 +25,8 @@
 
 # Bootcamps completed:
 
+[![Potência-Tech-iFood-Programacao-do-Zero](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]
+
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
