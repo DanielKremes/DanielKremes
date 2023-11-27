@@ -25,7 +25,7 @@
 
 # Bootcamps completed:
 
-[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Potência-Tech-iFood-Programação-do-Zero-DD0031?style=for-the-badge&logo=Potência-Tech-iFood-Programação-do-Zero-&logoColor=white)](https://www.dio.me/certificate/9D9BFB6D/share)
+[![](https://img.shields.io/badge/Potência-Tech-iFood-Programação-do-Zero-DD0031?style=for-the-badge&logo=Potência-Tech-iFood-Programação-do-Zero-&logoColor=white)](https://www.dio.me/certificate/9D9BFB6D/share)
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
