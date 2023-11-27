@@ -12,7 +12,7 @@
 ## Projects made
 ## [![CSS3](https://img.shields.io/badge/Trilha_CSS_DIO_Dgitial_Innovation_One-ff0000?&style=for-the-badge&logo=Trilha_CSS_DIO_Dgitial_Innovation_One3&logoColor=blue)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 
-## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular_Blog&logoColor=white)](https://angular.io/)
+## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular-Blog&logoColor=white)](https://angular.io/)
 
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
