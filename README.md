@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 
 ## Personal project made in by myself
-## [![First Project Anulgar](https://img.shields.io/badge/First_Project_Angular_Made_in_By_mysel-ff0000?&style=for-the-badge&f&logoColor=blue)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
+## [![First Project Anulgar](https://img.shields.io/badge/First_Project_Angular_Made_in_By_myself-f0000?&style=for-the-badge&f&logoColor=blue)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
 
 ## Projects made
 ## [![CSS3](https://img.shields.io/badge/Trilha_CSS_DIO_Dgitial_Innovation_One-ff0000?&style=for-the-badge&logo=Trilha_CSS_DIO_Dgitial_Innovation_One3&logoColor=blue)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
