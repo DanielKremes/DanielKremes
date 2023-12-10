@@ -13,7 +13,7 @@
 ## [![First Project Anulgar](https://img.shields.io/badge/My_first_project_personal_in_angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
 
 ## Projects made
-## [![project angular buzzfeed quizz](https://img.shields.io/badge/-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
+## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
 
 ## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular-Blog&logoColor=white)](https://angular.io/)
 
