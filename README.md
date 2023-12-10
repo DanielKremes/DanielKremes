@@ -32,9 +32,9 @@
 
 [![Desenvolvimento Frontend com Angular](https://img.shields.io/badge/Desenvolvimento_Frontend_com_Angular-3B97D0?style=for-the-badge&logo=angular&logoColor=white)](https://www.dio.me/certificate/CBFA449C/share)
 
-[![Potência Tech iFood - Desenvolvimento de Jogo](https://img.shields.io/badge/Bootcamp_Potência_Tech_iFood_Desenvolvimento_de_Jogo-906312?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
+[![Potência Tech iFood - Desenvolvimento de Jogo](https://img.shields.io/badge/JavaScript-906312?style=for-the-badge&logo=javascript&logoColor=black)](https://www.dio.me/certificate/291C45B1/share)
 
-[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/Bootcamp_Potência_Tech_iFood_Programação_do_Zero-B9242D?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/9D9BFB6D/share)
+[![Potência Tech iFood - Programação do Zero](https://img.shields.io/badge/JavaScript-B9242D?style=for-the-badge&logo=javascript&logoColor=black)](https://www.dio.me/certificate/9D9BFB6D/share)
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
