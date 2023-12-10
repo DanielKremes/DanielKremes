@@ -17,7 +17,7 @@
 
 ## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/angular_blog_dio_course/)
 
-## [![CSS3](https://img.shields.io/badge/CSS-#239120?&style=for-the-badge&logo=css3&logoColor=blue)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
+## [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
