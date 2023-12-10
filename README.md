@@ -13,12 +13,11 @@
 ## [![First Project Anulgar](https://img.shields.io/badge/First_Project_Angular_Made_in_By_myself-f0000?&style=for-the-badge&f&logoColor=blue)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
 
 ## Projects made
-
-## [![CSS3](https://img.shields.io/badge/Trilha_CSS_DIO_Dgitial_Innovation_One-ff0000?&style=for-the-badge&logo=Trilha_CSS_DIO_Dgitial_Innovation_One3&logoColor=blue)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
+## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
 
 ## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular-Blog&logoColor=white)](https://angular.io/)
 
-## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
+## [![CSS3](https://img.shields.io/badge/Trilha_CSS_DIO_Dgitial_Innovation_One-ff0000?&style=for-the-badge&logo=Trilha_CSS_DIO_Dgitial_Innovation_One3&logoColor=blue)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
@@ -46,7 +45,7 @@
 👍 [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 # Date update.
-📅 Sunday - 11/26/2023 ⏲️ PM 8.39 
+📅 Sunday - 12/10/2023 ⏲️ PM 2.38 
 
 # Thank you all very much, good studies and hugs to everyone.
 <!---
