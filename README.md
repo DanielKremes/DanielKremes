@@ -8,7 +8,7 @@
 
 [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 
- [![JAVASCRIPT](https://img.shields.io/badge/CSS-ffdd1f?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
+ [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffdd1f?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 
 
 ## Contact
