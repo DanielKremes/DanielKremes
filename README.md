@@ -32,6 +32,7 @@
 
 [![Potência Tech iFood - Desenvolvimento de Jogo](https://img.shields.io/badge/Bootcamp_Potência_Tech_iFood_Desenvolvimento_de_Jogo-DD0031?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
+[![Desenvolvimento Frontend com Angular](https://img.shields.io/badge/Desenvolvimento_Frontend_com_Angular-DD0031?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
 # Courses completed.
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
