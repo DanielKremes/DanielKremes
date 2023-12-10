@@ -4,12 +4,7 @@
 
 ## 🌱 I’m currently learning 
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) 
-
-[![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-
- [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffdd1f?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp) [![JavaScript](https://img.shields.io/badge/JavaScript-ffdd1f?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/js/default.asp) [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?&style=for-the-badge&logo=css3&logoColor=white)](https://www.typescriptlang.org/) [![Angular](https://img.shields.io/badge/Angular-#C3002F?&style=for-the-badge&logo=css3&logoColor=white)](https://angular.io/)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
@@ -50,7 +45,7 @@
 👍 [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 # Date update.
-📅 Sunday - 12/10/2023 ⏲️ PM 2.38 
+📅 Sunday - 12/10/2023 ⏲️ PM 3.01 
 
 # Thank you all very much, good studies and hugs to everyone.
 <!---
