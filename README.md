@@ -30,7 +30,7 @@
 
 # Bootcamps completed:
 
-[![Desenvolvimento Frontend com Angular](https://img.shields.io/badge/Desenvolvimento_Frontend_com_Angular-132734?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/CBFA449C/share)
+[![Desenvolvimento Frontend com Angular](https://img.shields.io/badge/Desenvolvimento_Frontend_com_Angular-020B0C?style=for-the-badge&logo=angular&logoColor=white)](https://www.dio.me/certificate/CBFA449C/share)
 
 [![Potência Tech iFood - Desenvolvimento de Jogo](https://img.shields.io/badge/Bootcamp_Potência_Tech_iFood_Desenvolvimento_de_Jogo-DD0031?style=for-the-badge&logo&logoColor=white)](https://www.dio.me/certificate/291C45B1/share)
 
