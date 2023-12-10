@@ -4,7 +4,7 @@
 
 ## 🌱 I’m currently learning 
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1ED?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp) [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-#483285?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1ED?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
