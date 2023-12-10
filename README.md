@@ -19,7 +19,7 @@
 
 ## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular-Blog&logoColor=white)](https://angular.io/)
 
-## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo=Angular-Blog&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
+## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
 
 # Links uteis:
 💻 [DIO Code your global future now!](https://www.dio.me/)
