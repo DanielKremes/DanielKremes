@@ -10,6 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremes-94919227b/)
 
 ## Personal project made in by myself
+
+## [![Project Blog Personal Version 01](https://img.shields.io/badge/Project_Blog_Personal_Version_01-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/project_blog_personal/)
+
 ## [![First Project Anulgar](https://img.shields.io/badge/My_first_project_personal_in_angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
 
 ## Projects made
