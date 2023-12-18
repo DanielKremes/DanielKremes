@@ -43,7 +43,7 @@
 ✔️ [Courses Completed DIO(Digital Innovation One)](https://web.dio.me/certificates)
 
 # Last studies
-## Working with pipes: https://www.dio.me/certificate/CE11DD8C/share
+Working with pipes: https://www.dio.me/certificate/CE11DD8C/share
 
 # Link to personlaziation emoji in github and Badges
 👍 [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
