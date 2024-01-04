@@ -11,6 +11,8 @@
 
 ## Personal project made in by myself
 
+##  [![calc_simple_personal_demo_01](https://img.shields.io/badge/calc_simple_personal_demo_01-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://calc-simple-personal-demo-01.vercel.app/) 
+
 ## [![Project Blog Personal Version 01](https://img.shields.io/badge/Project_Blog_Personal_Version_01-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/project_blog_personal/)
 
 ## [![First Project Anulgar](https://img.shields.io/badge/My_first_project_personal_in_angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/first_project_angular_created_by_myself/)
@@ -19,8 +21,6 @@
 ## [![project angular buzzfeed quizz](https://img.shields.io/badge/project_angular_buzzfeed_quizz-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/project_angular_buzzfeed_quizz/)
 
 ## [![Angular Blog](https://img.shields.io/badge/Angular_Blog-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://danielkremes.github.io/angular_blog_dio_course/)
-
-##  [![calc_simple_personal_demo_01](https://img.shields.io/badge/calc_simple_personal_demo_01-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://calc-simple-personal-demo-01.vercel.app/) 
 
 ## [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://danielkremes.github.io/trilha-css-desafio-01-Public/)
 
